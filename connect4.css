@@ -1,0 +1,24 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  background: radial-gradient(ellipse 80% 80% at bottom, #fff -300%, #313 110%);
+
+  color: #fff;
+}
+
+h1 {
+  margin: 2% 0 2%;
+}
+
+table {
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: auto;
+}
+
+td {
+  height: 7vw;
+  width: 7vw;
+  border: outset #444 2px;
+  border-radius: 100%;
+}
